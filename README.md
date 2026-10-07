@@ -46,3 +46,7 @@ mod.cfg = {
 - **Requires a Lua-enabled build** (`lua_api_version: 2`). The official Windows release supports it.
 - You can add or remove this mod in an existing world at any time. It writes nothing to your save.
 - The "next time" switch is not saved. It is reset when you load the game again.
+
+## Credits
+
+Author: sagittarius72. This mod was made with the help of Claude (Anthropic).

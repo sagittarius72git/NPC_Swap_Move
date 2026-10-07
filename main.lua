@@ -26,6 +26,8 @@
     * 「次の1回だけメニューを開く」を使った直後
 
   設定は下の mod.cfg で変更でき、「Reload Lua Code」で即反映される。
+
+  Assisted-by: Claude:claude-opus-5-5
 ]]
 
 gdebug.log_info("NSM: main.")

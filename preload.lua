@@ -3,6 +3,8 @@
 
   フックとアクションメニュー項目の登録だけを行う。
   実装は main.lua 側（「Reload Lua Code」で差し替えられるように）。
+
+  Assisted-by: Claude:claude-opus-5-5
 ]]
 
 gdebug.log_info("NSM: preload.")

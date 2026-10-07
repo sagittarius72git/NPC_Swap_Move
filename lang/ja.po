@@ -1,4 +1,5 @@
 # Japanese translation for the "Swap Places by Default" mod.
+# Assisted-by: Claude:claude-opus-5-5
 msgid ""
 msgstr ""
 "Project-Id-Version: npc_swap_on_move\n"
