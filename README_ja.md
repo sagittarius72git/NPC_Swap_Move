@@ -34,7 +34,6 @@
 mod.cfg = {
   move_cost = 200,      -- 入れ替えに使う移動力（本体と同じ200）
   require_ally = true,  -- false にすると敵対していないNPC全員が対象
-  swap_on_auto_move = true, -- 自動移動中も入れ替わって進む
   avoid_traps = true,   -- 相手のマスに罠があるときは入れ替えない
   avoid_vehicles = true,-- 乗り物の上では入れ替えない
   announce = true,      -- メッセージを出す
