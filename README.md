@@ -5,7 +5,7 @@ No more opening the menu and pressing "s" every time you pass a companion in a n
 
 ## How to use
 
-- **Move into an ally** → you swap places on the spot (costs 200 moves).
+- **Move into an ally** → you JUST SWAP places on the spot (costs 200 moves).
 - **When you want the usual menu** → choose "Open the NPC menu next time" from the action menu,
   then interact with the NPC (move into them, or examine them with `E`) and the usual menu opens.
   You can bind this entry to any key in the keybindings.
