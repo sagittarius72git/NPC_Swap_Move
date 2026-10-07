@@ -51,7 +51,7 @@ mod.cfg = {
   avoid_vehicles = true,
 
   -- 自動移動（移動先を指定して歩く）の途中で味方が道をふさいだら、入れ替わって進む。
-  -- 本体に on_auto_move_blocked_by_npc フックがある場合だけ働く。
+  -- 本体に on_auto_move_blocked_by_npc フックがある場合だけ働く。現状無意味
   swap_on_auto_move = true,
 
   -- 入れ替えたときにメッセージを出す。
