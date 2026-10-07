@@ -1,0 +1,29 @@
+# Japanese translation for the "Swap Places by Default" mod.
+msgid ""
+msgstr ""
+"Project-Id-Version: npc_swap_on_move\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: ja\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Swap Places by Default"
+msgstr "移動で位置を入れ替える"
+
+msgid ""
+"Walking into a friendly, obedient NPC swaps places with them instead of "
+"opening the interaction menu.  The normal menu is still one keypress away: "
+"use the \"Open the NPC menu next time\" action, then touch the NPC as usual."
+msgstr ""
+"味方NPCに向かって移動したとき、メニューを開かずにその場で位置を入れ替える。"
+"従来のメニューも「次の1回だけNPCメニューを開く」を選んでから触れれば開ける。"
+
+msgid "Open the NPC menu next time"
+msgstr "次の1回だけNPCメニューを開く"
+
+msgid "The next NPC you touch will open the usual menu."
+msgstr "次に触れるNPCでは、いつものメニューが開く。"
+
+msgid "You swap places with %s."
+msgstr "%sと位置を入れ替えた。"
