@@ -30,7 +30,16 @@ so swapping on a vehicle can't be handled correctly. In both cases the mod avoid
 Edit `mod.cfg` at the top of `main.lua`. If you edit it while playing,
 run **Reload Lua Code** from the debug menu to apply the change right away.
 
-（ここに mod.cfg のコードブロックが入ります。コメントも英訳済みです）
+```lua
+mod.cfg = {
+  move_cost = 200,      
+  require_ally = true,  
+  avoid_traps = true,
+  avoid_vehicles = true,
+  announce = true,
+  debug = false,
+}
+```
 
 ## Notes
 
