@@ -30,7 +30,7 @@ if game.hooks and game.hooks["on_auto_move_blocked_by_npc"] then
 end
 
 -- 「次の1回だけ、いつものNPCメニューを開く」スイッチ。
--- アクションメニューから選べるほか、キー設定で好きなキーに割り当てられる。
+-- アクションメニューから選ぶ（Luaの項目はキー設定に出ないため、キーには割り当てられない）。
 gapi.register_action_menu_entry({
   id = "npc_swap_bypass_once",
   name = locale.gettext("Open the NPC menu next time"),
